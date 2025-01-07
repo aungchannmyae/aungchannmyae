@@ -1,5 +1,12 @@
-## Hi there 👋
+## I'm Aung Chan Myae 
 
+Software Developer who is seeking the work Experiences in the position as a Junior Front End Developer.
+
+## 🛠 Skills
+- HTML, CSS (Tailwind)
+- Javascript
+- ReactJs
+- NextJs
 <!--
 **aungchannmyae/aungchannmyae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
