@@ -3,6 +3,8 @@
 Software Developer who is seeking the work Experiences in the position as a Junior Front End Developer.
 
 ## Having the solid skills in
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,next)](https://skillicons.dev)
+
 <!--
 **aungchannmyae/aungchannmyae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
