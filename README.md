@@ -8,7 +8,10 @@ Software Developer who is seeking the work Experiences in the position as a Juni
 ## Familiar tools for development
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,vite,powershell,postman)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungchannmyae&theme=radical&layout=compact)
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungchannmyae&theme=midnight-purple&layout=compact)
+
+![Aung Chan myae's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungchannmyae&show_icons=true&theme=midnight-purple)
 
 <!--
 **aungchannmyae/aungchannmyae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
