@@ -5,7 +5,7 @@ Software Developer who is seeking the work Experiences in the position as a Juni
 ## Having the solid skills in
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,next)](https://skillicons.dev)
 
-## Tools for development
+## Familiar tools for development
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,vite,powershell,postman)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungchannmyae&theme=radical&layout=compact)
