@@ -3,7 +3,7 @@
 Software Developer who is seeking the work Experiences in the position as a Junior Front End Developer.
 
 ## Having the solid skills in
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,php,laravel)](https://skillicons.dev)
 
 ## Familiar tools for development
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,vite,powershell,postman)](https://skillicons.dev)
