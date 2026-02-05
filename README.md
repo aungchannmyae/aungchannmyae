@@ -1,6 +1,6 @@
 # Hello 🙌 I'm Aung Chan Myae 🤖
 
-Software Developer who is seeking the work Experiences in the position as a Junior Front End Developer.
+Human Web Developer...
 
 ## Having the solid skills in
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,php,laravel)](https://skillicons.dev)
